@@ -1,0 +1,16 @@
+[
+{
+  "modid": "milkspray",
+  "name": "Milk Spray",
+  "description": "Spray that milky magic.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The_Icy_One"],
+  "credits": "Blah, for the milky magic that was requested",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
